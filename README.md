@@ -84,7 +84,9 @@ We have included the section of refactored code below:
     
 We created arrays and loops, and with the use of If statements, determined the preformance of the 12 stocks in question in 2017 and 2018
 
-    
+
+![](https://github.com/Mikeblanchard/stock-analysis/blob/main/Resources/Screenshot%202021-01-10%20154050.png)
+
 ## Summary
 
 ####    Advantages and Disadvantages 
