@@ -84,12 +84,13 @@ We have included the section of refactored code below:
     
 We created arrays and loops, and with the use of If statements, determined the preformance of the 12 stocks in question in 2017 and 2018
 
-2017                                                        |2018
-:----------------------------------------------------------:|:--------------------------------------------------------------------:
+2017                                                                    |2018
+:----------------------------------------------------------------------:|:------------------------------------------------------------------------------:
 ![](https://github.com/Mikeblanchard/stock-analysis/blob/main/Resources/Screenshot%202021-01-10%20154016.png) | ![](https://github.com/Mikeblanchard/stock-analysis/blob/main/Resources/Screenshot%202021-01-10%20154932.png)
 
-
+Drastically different years for the stocks we looked at. 2017 saw all but TERP growing in value, with DQ being the big winner at almost 200% return. 2018 saw all but RUN and ENPH with a postive return. 
 
 ## Summary
+
 
 ####    Advantages and Disadvantages 
