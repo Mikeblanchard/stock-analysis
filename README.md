@@ -88,10 +88,20 @@ We created arrays and loops, and with the use of If statements, determined the p
 :----------------------------------------------------------------------:|:------------------------------------------------------------------------------:
 ![](https://github.com/Mikeblanchard/stock-analysis/blob/main/Resources/Screenshot%202021-01-10%20154016.png) | ![](https://github.com/Mikeblanchard/stock-analysis/blob/main/Resources/Screenshot%202021-01-10%20154932.png)
 
-Drastically different years for the stocks we looked at. 2017 saw all but TERP growing in value, with DQ being the big winner at almost 200% return. 2018 saw all but RUN and ENPH with a postive return. Interesting to note that RUN and ENPH were the only 2 stock that gave a positive return over both years. It would be fascinating to look further back to see how long they've had a proven record of growth. 
+Drastically different years for the stocks we looked at. 2017 saw all but TERP growing in value, with DQ being the big winner at almost a 200% return. 2018 saw all but RUN and ENPH with a postive return. It is Interesting to note that RUN and ENPH were the only 2 stock that gave a positive return over both years, with ENPH being the biggest gain of all stocks over the two yerars. It would be fascinating to look further back to see how long those two stocks have had a proven record of growth. 
 
 ## Summary
 
-####    Advantages and Disadvantages 
+####    Advantages and Disadvantages of Refactoring Code
+
+The use of refactoring provides a framework to work off of, in this case it allowed us to skip writing some ground level code in order to focus on making the code as concise and clean as possible, in less time. Not having written the code ourselves is the obvious impediment to refactoring, as parts may not be in sync with our new objectives. Special attention must be paid to having the right test cases and sample sizes. 
+
+Specific to refactoring the Stock Analysis code, the biggest benefit we saw was the improvement in run time. See the timer results below:
+
+2017                                                                     |2018
+:-----------------------------------------------------------------------:|:----------------------------------------------------------------------------:
+
+
+
 
 
