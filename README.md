@@ -6,6 +6,11 @@ The purpose of this project was to expand the dataset we have been working with 
 
 ## Results
 
+A link to the Excel sheet containing the relevant code:
+https://github.com/Mikeblanchard/stock-analysis/blob/main/green_stocks.xlsm 
+
+We have included the section of refactored code below:
+
     '1a) Create a ticker Index
     
     Dim tickerIndex As Integer
@@ -77,6 +82,9 @@ The purpose of this project was to expand the dataset we have been working with 
         
     Next i
     
-    
+We created arrays and loops, and with the use of If statements, determined the preformance of the 12 stocks in question in 2017 and 2018
+
     
 ## Summary
+
+####    Advantages and Disadvantages 
