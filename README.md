@@ -100,7 +100,7 @@ Specific to refactoring the Stock Analysis code, the biggest benefit we saw was 
 
 2017                                                                     |2018
 :-----------------------------------------------------------------------:|:----------------------------------------------------------------------------:
-![](https://github.com/Mikeblanchard/stock-analysis/blob/main/Resources/2017timer.png) | 
+![](https://github.com/Mikeblanchard/stock-analysis/blob/main/Resources/2017timer.png) | ![](https://github.com/Mikeblanchard/stock-analysis/blob/main/Resources/2018Timer.png)
 
 
 
