@@ -88,9 +88,10 @@ We created arrays and loops, and with the use of If statements, determined the p
 :----------------------------------------------------------------------:|:------------------------------------------------------------------------------:
 ![](https://github.com/Mikeblanchard/stock-analysis/blob/main/Resources/Screenshot%202021-01-10%20154016.png) | ![](https://github.com/Mikeblanchard/stock-analysis/blob/main/Resources/Screenshot%202021-01-10%20154932.png)
 
-Drastically different years for the stocks we looked at. 2017 saw all but TERP growing in value, with DQ being the big winner at almost 200% return. 2018 saw all but RUN and ENPH with a postive return. 
+Drastically different years for the stocks we looked at. 2017 saw all but TERP growing in value, with DQ being the big winner at almost 200% return. 2018 saw all but RUN and ENPH with a postive return. Interesting to note that RUN and ENPH were the only 2 stock that gave a positive return over both years. It would be fascinating to look further back to see how long they've had a proven record of growth. 
 
 ## Summary
 
-
 ####    Advantages and Disadvantages 
+
+
