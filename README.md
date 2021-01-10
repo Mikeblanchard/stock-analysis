@@ -86,7 +86,9 @@ We created arrays and loops, and with the use of If statements, determined the p
 
 2017                                                        |2018
 :----------------------------------------------------------:|:--------------------------------------------------------------------:
-![](https://github.com/Mikeblanchard/stock-analysis/blob/main/Resources/Screenshot%202021-01-10%20154016.png) | ![](https://github.com/Mikeblanchard/stock-analysis/blob/main/Resources/Screenshot%202021-01-10%20154050.png)
+![](https://github.com/Mikeblanchard/stock-analysis/blob/main/Resources/Screenshot%202021-01-10%20154016.png) | ![](https://github.com/Mikeblanchard/stock-analysis/blob/main/Resources/Screenshot%202021-01-10%20154932.png)
+
+
 
 ## Summary
 
